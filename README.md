@@ -26,6 +26,8 @@ Expected
 Result
 Desktop:
 ![](./assets/images/desktop.png)
+
+
 Mobile:
 ![](./assets/images/mobile.png.png)
 

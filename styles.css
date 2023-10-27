@@ -180,6 +180,10 @@
     background:linear-gradient(var(--gr-color-circle-persian-blue) 0%, var(--grcolor-royal-blue) 1%);
 }
 
+.button button:focus{
+    background:linear-gradient(var(--gr-color-circle-persian-blue) 0%, var(--grcolor-royal-blue) 1%);
+}
+
 .attribution { 
     font-size: 11px;
     text-align: center; 

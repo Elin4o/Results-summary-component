@@ -19,11 +19,6 @@ Users should be able to:
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
 ### Screenshot
-
-Expected
-![](./screenshot.jpg)
-
-Result
 Desktop:
 ![](./assets/images/desktop.png)
 
